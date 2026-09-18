@@ -18,3 +18,4 @@ docs/
 .env
 .env.*
 !.env.example
+.github/workflows/test.yml
